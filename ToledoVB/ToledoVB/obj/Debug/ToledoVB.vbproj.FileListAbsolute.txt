@@ -1,0 +1,24 @@
+C:\Users\ForSell 02\Documents\Compensa\TOLEDOVB\ToledoVB\ToledoVB\bin\Debug\ToledoVB.exe.config
+C:\Users\ForSell 02\Documents\Compensa\TOLEDOVB\ToledoVB\ToledoVB\bin\Debug\ToledoVB.exe
+C:\Users\ForSell 02\Documents\Compensa\TOLEDOVB\ToledoVB\ToledoVB\bin\Debug\ToledoVB.pdb
+C:\Users\ForSell 02\Documents\Compensa\TOLEDOVB\ToledoVB\ToledoVB\bin\Debug\ToledoVB.xml
+C:\Users\ForSell 02\Documents\Compensa\TOLEDOVB\ToledoVB\ToledoVB\obj\Debug\ToledoVB.vbprojAssemblyReference.cache
+C:\Users\ForSell 02\Documents\Compensa\TOLEDOVB\ToledoVB\ToledoVB\obj\Debug\ToledoVB.Form1.resources
+C:\Users\ForSell 02\Documents\Compensa\TOLEDOVB\ToledoVB\ToledoVB\obj\Debug\ToledoVB.Resources.resources
+C:\Users\ForSell 02\Documents\Compensa\TOLEDOVB\ToledoVB\ToledoVB\obj\Debug\ToledoVB.vbproj.GenerateResource.cache
+C:\Users\ForSell 02\Documents\Compensa\TOLEDOVB\ToledoVB\ToledoVB\obj\Debug\ToledoVB.vbproj.CoreCompileInputs.cache
+C:\Users\ForSell 02\Documents\Compensa\TOLEDOVB\ToledoVB\ToledoVB\obj\Debug\ToledoVB.exe
+C:\Users\ForSell 02\Documents\Compensa\TOLEDOVB\ToledoVB\ToledoVB\obj\Debug\ToledoVB.xml
+C:\Users\ForSell 02\Documents\Compensa\TOLEDOVB\ToledoVB\ToledoVB\obj\Debug\ToledoVB.pdb
+D:\source\TOLEDOVB\ToledoVB\ToledoVB\bin\Debug\ToledoVB.exe.config
+D:\source\TOLEDOVB\ToledoVB\ToledoVB\bin\Debug\ToledoVB.exe
+D:\source\TOLEDOVB\ToledoVB\ToledoVB\bin\Debug\ToledoVB.pdb
+D:\source\TOLEDOVB\ToledoVB\ToledoVB\bin\Debug\ToledoVB.xml
+D:\source\TOLEDOVB\ToledoVB\ToledoVB\obj\Debug\ToledoVB.vbprojAssemblyReference.cache
+D:\source\TOLEDOVB\ToledoVB\ToledoVB\obj\Debug\ToledoVB.Form1.resources
+D:\source\TOLEDOVB\ToledoVB\ToledoVB\obj\Debug\ToledoVB.Resources.resources
+D:\source\TOLEDOVB\ToledoVB\ToledoVB\obj\Debug\ToledoVB.vbproj.GenerateResource.cache
+D:\source\TOLEDOVB\ToledoVB\ToledoVB\obj\Debug\ToledoVB.vbproj.CoreCompileInputs.cache
+D:\source\TOLEDOVB\ToledoVB\ToledoVB\obj\Debug\ToledoVB.exe
+D:\source\TOLEDOVB\ToledoVB\ToledoVB\obj\Debug\ToledoVB.xml
+D:\source\TOLEDOVB\ToledoVB\ToledoVB\obj\Debug\ToledoVB.pdb
